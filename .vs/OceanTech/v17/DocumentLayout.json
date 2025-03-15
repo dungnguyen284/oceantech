@@ -1,0 +1,712 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DB7981-E720-4135-86AD-DD7615B07194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businesslogiclayer\\services\\provinceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DB7981-E720-4135-86AD-DD7615B07194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\provinceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55585658-AC62-414B-AE80-FA54EFC54696}|OceanTech.API\\OceanTech.API.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\oceantech.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55585658-AC62-414B-AE80-FA54EFC54696}|OceanTech.API\\OceanTech.API.csproj|solutionrelative:oceantech.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA2D321-2891-4DDE-89B5-ACE5BBCB726C}|OceanTech.MVC\\OceanTech.MVC.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\oceantech.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA2D321-2891-4DDE-89B5-ACE5BBCB726C}|OceanTech.MVC\\OceanTech.MVC.csproj|solutionrelative:oceantech.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD83877E-691F-4859-943C-828D888EC55D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD83877E-691F-4859-943C-828D888EC55D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD83877E-691F-4859-943C-828D888EC55D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\dataaccesslayer\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD83877E-691F-4859-943C-828D888EC55D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DB7981-E720-4135-86AD-DD7615B07194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businesslogiclayer\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DB7981-E720-4135-86AD-DD7615B07194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55585658-AC62-414B-AE80-FA54EFC54696}|OceanTech.API\\OceanTech.API.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\oceantech.api\\oceantech.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{55585658-AC62-414B-AE80-FA54EFC54696}|OceanTech.API\\OceanTech.API.csproj|solutionrelative:oceantech.api\\oceantech.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55585658-AC62-414B-AE80-FA54EFC54696}|OceanTech.API\\OceanTech.API.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\oceantech.api\\controllers\\provincecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55585658-AC62-414B-AE80-FA54EFC54696}|OceanTech.API\\OceanTech.API.csproj|solutionrelative:oceantech.api\\controllers\\provincecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55585658-AC62-414B-AE80-FA54EFC54696}|OceanTech.API\\OceanTech.API.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\oceantech.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55585658-AC62-414B-AE80-FA54EFC54696}|OceanTech.API\\OceanTech.API.csproj|solutionrelative:oceantech.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DB7981-E720-4135-86AD-DD7615B07194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businesslogiclayer\\services\\interfaces\\iwardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DB7981-E720-4135-86AD-DD7615B07194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\interfaces\\iwardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DB7981-E720-4135-86AD-DD7615B07194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businesslogiclayer\\services\\interfaces\\iprovinceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DB7981-E720-4135-86AD-DD7615B07194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\interfaces\\iprovinceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DB7981-E720-4135-86AD-DD7615B07194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businesslogiclayer\\services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DB7981-E720-4135-86AD-DD7615B07194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DB7981-E720-4135-86AD-DD7615B07194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businesslogiclayer\\services\\interfaces\\idistrictservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DB7981-E720-4135-86AD-DD7615B07194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\interfaces\\idistrictservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DB7981-E720-4135-86AD-DD7615B07194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businesslogiclayer\\services\\interfaces\\icertificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DB7981-E720-4135-86AD-DD7615B07194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\interfaces\\icertificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businessmodels\\customresponses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|solutionrelative:businessmodels\\customresponses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businessmodels\\customresponses\\pagedresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|solutionrelative:businessmodels\\customresponses\\pagedresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businessmodels\\customresponses\\httpstatuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|solutionrelative:businessmodels\\customresponses\\httpstatuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businessmodels\\entities\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|solutionrelative:businessmodels\\entities\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businessmodels\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|solutionrelative:businessmodels\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businessmodels\\entities\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|solutionrelative:businessmodels\\entities\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businessmodels\\entities\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|solutionrelative:businessmodels\\entities\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Migrations\\20250315064643_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Migrations\\20250315064643_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD83877E-691F-4859-943C-828D888EC55D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\dataaccesslayer\\data\\oceantechdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD83877E-691F-4859-943C-828D888EC55D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\oceantechdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Migrations\\20250315064508_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Migrations\\20250315064508_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD83877E-691F-4859-943C-828D888EC55D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\dataaccesslayer\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD83877E-691F-4859-943C-828D888EC55D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Migrations\\20250315064242_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Migrations\\20250315064242_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Migrations\\20250315064140_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Migrations\\20250315064140_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Migrations\\20250315063906_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Migrations\\20250315063906_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businessmodels\\entities\\ward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|solutionrelative:businessmodels\\entities\\ward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55585658-AC62-414B-AE80-FA54EFC54696}|OceanTech.API\\OceanTech.API.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\oceantech.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55585658-AC62-414B-AE80-FA54EFC54696}|OceanTech.API\\OceanTech.API.csproj|solutionrelative:oceantech.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55585658-AC62-414B-AE80-FA54EFC54696}|OceanTech.API\\OceanTech.API.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\oceantech.api\\oceantech.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55585658-AC62-414B-AE80-FA54EFC54696}|OceanTech.API\\OceanTech.API.csproj|solutionrelative:oceantech.api\\oceantech.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD83877E-691F-4859-943C-828D888EC55D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\dataaccesslayer\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD83877E-691F-4859-943C-828D888EC55D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD83877E-691F-4859-943C-828D888EC55D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\dataaccesslayer\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD83877E-691F-4859-943C-828D888EC55D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD83877E-691F-4859-943C-828D888EC55D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD83877E-691F-4859-943C-828D888EC55D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DB7981-E720-4135-86AD-DD7615B07194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1DB7981-E720-4135-86AD-DD7615B07194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|c:\\users\\admin\\documents\\prn222\\oceantech\\businessmodels\\businessmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00B465D6-2597-4C3F-B417-4E3780B54C89}|BusinessModels\\BusinessModels.csproj|solutionrelative:businessmodels\\businessmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\OceanTech.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "OceanTech.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\OceanTech.MVC\\Program.cs",
+              "RelativeToolTip": "OceanTech.MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T07:09:58.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OceanTech.API.http",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\OceanTech.API\\OceanTech.API.http",
+              "RelativeDocumentMoniker": "OceanTech.API\\OceanTech.API.http",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\OceanTech.API\\OceanTech.API.http",
+              "RelativeToolTip": "OceanTech.API\\OceanTech.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-15T07:07:34.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessLogicLayer\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessLogicLayer\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:12:19.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\OceanTech.API\\Program.cs",
+              "RelativeDocumentMoniker": "OceanTech.API\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\OceanTech.API\\Program.cs",
+              "RelativeToolTip": "OceanTech.API\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:26:54.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:42:29.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:42:15.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProvinceService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessLogicLayer\\Services\\ProvinceService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\ProvinceService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessLogicLayer\\Services\\ProvinceService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\ProvinceService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T07:00:40.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProvinceController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\OceanTech.API\\Controllers\\ProvinceController.cs",
+              "RelativeDocumentMoniker": "OceanTech.API\\Controllers\\ProvinceController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\OceanTech.API\\Controllers\\ProvinceController.cs",
+              "RelativeToolTip": "OceanTech.API\\Controllers\\ProvinceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T07:06:46.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IWardService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessLogicLayer\\Services\\Interfaces\\IWardService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Interfaces\\IWardService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessLogicLayer\\Services\\Interfaces\\IWardService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Interfaces\\IWardService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:14:03.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProvinceService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessLogicLayer\\Services\\Interfaces\\IProvinceService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Interfaces\\IProvinceService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessLogicLayer\\Services\\Interfaces\\IProvinceService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Interfaces\\IProvinceService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:14:21.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\OceanTech.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "OceanTech.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\OceanTech.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "OceanTech.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:11:58.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessLogicLayer\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessLogicLayer\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:13:51.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDistrictService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessLogicLayer\\Services\\Interfaces\\IDistrictService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Interfaces\\IDistrictService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessLogicLayer\\Services\\Interfaces\\IDistrictService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Interfaces\\IDistrictService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:14:12.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICertificateService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessLogicLayer\\Services\\Interfaces\\ICertificateService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Interfaces\\ICertificateService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessLogicLayer\\Services\\Interfaces\\ICertificateService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Interfaces\\ICertificateService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:15:12.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\CustomResponses\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "BusinessModels\\CustomResponses\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\CustomResponses\\ApiResponse.cs",
+              "RelativeToolTip": "BusinessModels\\CustomResponses\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:45:00.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PagedResults.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\CustomResponses\\PagedResults.cs",
+              "RelativeDocumentMoniker": "BusinessModels\\CustomResponses\\PagedResults.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\CustomResponses\\PagedResults.cs",
+              "RelativeToolTip": "BusinessModels\\CustomResponses\\PagedResults.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:51:08.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HttpStatusCode.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\CustomResponses\\HttpStatusCode.cs",
+              "RelativeDocumentMoniker": "BusinessModels\\CustomResponses\\HttpStatusCode.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\CustomResponses\\HttpStatusCode.cs",
+              "RelativeToolTip": "BusinessModels\\CustomResponses\\HttpStatusCode.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:45:09.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Province.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\Entities\\Province.cs",
+              "RelativeDocumentMoniker": "BusinessModels\\Entities\\Province.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\Entities\\Province.cs",
+              "RelativeToolTip": "BusinessModels\\Entities\\Province.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:36:37.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "BusinessModels\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\Entities\\Employee.cs",
+              "RelativeToolTip": "BusinessModels\\Entities\\Employee.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:36:04.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "District.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\Entities\\District.cs",
+              "RelativeDocumentMoniker": "BusinessModels\\Entities\\District.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\Entities\\District.cs",
+              "RelativeToolTip": "BusinessModels\\Entities\\District.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA0wA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:37:43.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Certificate.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\Entities\\Certificate.cs",
+              "RelativeDocumentMoniker": "BusinessModels\\Entities\\Certificate.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\Entities\\Certificate.cs",
+              "RelativeToolTip": "BusinessModels\\Entities\\Certificate.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwCEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:16:28.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250315064643_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Migrations\\20250315064643_Initial.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250315064643_Initial.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Migrations\\20250315064643_Initial.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20250315064643_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:46:43.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OceanTechDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Data\\OceanTechDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\OceanTechDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Data\\OceanTechDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Data\\OceanTechDbContext.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAC8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:40:43.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250315064508_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Migrations\\20250315064508_Initial.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250315064508_Initial.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Migrations\\20250315064508_Initial.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20250315064508_Initial.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:45:08.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Data\\SeedData.cs",
+              "RelativeToolTip": "DataAccessLayer\\Data\\SeedData.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCMAAADEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:31:44.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250315064242_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Migrations\\20250315064242_Initial.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250315064242_Initial.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Migrations\\20250315064242_Initial.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20250315064242_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:42:43.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250315064140_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Migrations\\20250315064140_Initial.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250315064140_Initial.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Migrations\\20250315064140_Initial.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20250315064140_Initial.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:41:40.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250315063906_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Migrations\\20250315063906_Initial.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250315063906_Initial.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\Migrations\\20250315063906_Initial.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20250315063906_Initial.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:39:06.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Ward.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\Entities\\Ward.cs",
+              "RelativeDocumentMoniker": "BusinessModels\\Entities\\Ward.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\Entities\\Ward.cs",
+              "RelativeToolTip": "BusinessModels\\Entities\\Ward.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:38:43.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\OceanTech.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OceanTech.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\OceanTech.API\\appsettings.json",
+              "RelativeToolTip": "OceanTech.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T01:27:07.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OceanTech.API.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\OceanTech.API\\OceanTech.API.csproj",
+              "RelativeDocumentMoniker": "OceanTech.API\\OceanTech.API.csproj",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\OceanTech.API\\OceanTech.API.csproj",
+              "RelativeToolTip": "OceanTech.API\\OceanTech.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T05:18:25.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "DataAccessLayer\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:46:13.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T18:40:54.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\DataAccessLayer\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "DataAccessLayer\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:46:22.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BusinessLogicLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeToolTip": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T19:43:18.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BusinessModels.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\BusinessModels.csproj",
+              "RelativeDocumentMoniker": "BusinessModels\\BusinessModels.csproj",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\BusinessModels.csproj",
+              "RelativeToolTip": "BusinessModels\\BusinessModels.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T18:34:53.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 29,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 29,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

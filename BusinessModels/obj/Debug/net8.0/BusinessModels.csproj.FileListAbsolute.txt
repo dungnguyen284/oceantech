@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\PRN222\OceanTech\BusinessModels\bin\Debug\net8.0\BusinessModels.deps.json
+C:\Users\admin\Documents\PRN222\OceanTech\BusinessModels\bin\Debug\net8.0\BusinessModels.dll
+C:\Users\admin\Documents\PRN222\OceanTech\BusinessModels\bin\Debug\net8.0\BusinessModels.pdb
+C:\Users\admin\Documents\PRN222\OceanTech\BusinessModels\obj\Debug\net8.0\BusinessModels.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\PRN222\OceanTech\BusinessModels\obj\Debug\net8.0\BusinessModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\PRN222\OceanTech\BusinessModels\obj\Debug\net8.0\BusinessModels.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\PRN222\OceanTech\BusinessModels\obj\Debug\net8.0\BusinessModels.AssemblyInfo.cs
+C:\Users\admin\Documents\PRN222\OceanTech\BusinessModels\obj\Debug\net8.0\BusinessModels.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\PRN222\OceanTech\BusinessModels\obj\Debug\net8.0\BusinessModels.dll
+C:\Users\admin\Documents\PRN222\OceanTech\BusinessModels\obj\Debug\net8.0\refint\BusinessModels.dll
+C:\Users\admin\Documents\PRN222\OceanTech\BusinessModels\obj\Debug\net8.0\BusinessModels.pdb
+C:\Users\admin\Documents\PRN222\OceanTech\BusinessModels\obj\Debug\net8.0\ref\BusinessModels.dll

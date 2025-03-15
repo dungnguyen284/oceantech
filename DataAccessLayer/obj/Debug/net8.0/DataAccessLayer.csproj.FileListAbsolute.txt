@@ -1,0 +1,17 @@
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\bin\Debug\net8.0\BusinessModels.dll
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\bin\Debug\net8.0\BusinessModels.pdb
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\admin\Documents\PRN222\OceanTech\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

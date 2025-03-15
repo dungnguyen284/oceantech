@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sm4wJ2obHW9TQqdyArdW8K9u16/qJWJzGyf0vHtm8Yv2///rmcvrCdveAgZDrH4uhjp/SRzRDJuPNJTgXXoywg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Documents\\PRN222\\OceanTech\\BusinessModels\\BusinessModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
